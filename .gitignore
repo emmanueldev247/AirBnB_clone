@@ -1,5 +1,6 @@
 .gitsetup
 .hidden/
+test_*
 test-*
 *.sw*
 file.json
