@@ -1,0 +1,10 @@
+.gitsetup
+.hidden/
+test-*
+*.sw*
+file.json
+*__pycache__/
+models/__pycache__/
+models/engine/__pycache__/
+tests/test_models/__pycache__/
+tests/test_models/test_engine/__pycache__/

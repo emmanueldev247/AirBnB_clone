@@ -3,6 +3,7 @@
 
 import uuid
 from datetime import datetime
+import models
 
 
 class BaseModel:
@@ -27,8 +28,7 @@ class BaseModel:
 
     def __str__(self):
         """Returns a string representation of the instance"""
-        return "[{}] ({}) {}".format
-        (self.__class__.__name__, self.id, self.__dict__)
+        return "[{}] ({}) {}".format(self.__class__.__name__, self.id, self.__dict__)
 
     def save(self):
         """Updates the public instance attribute updated_at with the current
