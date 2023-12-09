@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Created by Israel Udofia & Emmanuel Ademola
+# Created by Emmanuel Ademola & Israel Ewedairo
 
 """Unittests for console.py"""
 
