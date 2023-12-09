@@ -9,8 +9,3 @@ class User(BaseModel):
     password = ""
     first_name = ""
     last_name = ""
-
-    def save(self):
-        """Save the instance to the storage"""
-        super().save()
-        storage.new(self)
