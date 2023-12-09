@@ -46,8 +46,9 @@ class HBNBCommand(cmd.Cmd):
             else:
                 # getting the class from globals
                 class_object = globals()[class_name]
+                new_instance = class_object()
+                new_instance.save()
                 print(class_object().id)
-                storage.save()
 
     def do_show(self, line):
         """Prints the string representation of an instance. Ex:
