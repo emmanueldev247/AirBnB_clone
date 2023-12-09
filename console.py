@@ -49,6 +49,7 @@ class HBNBCommand(cmd.Cmd):
                 new_instance = class_object()
                 new_instance.save()
                 print(class_object().id)
+                storage.save()
 
     def do_show(self, line):
         """Prints the string representation of an instance. Ex:
