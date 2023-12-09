@@ -144,8 +144,8 @@ or      (hbnb) all"""
             print("** instance id missing **")
             return
 
-        seen = False
         class_id = args[1]
+        seen = False
         storage_objects = storage.all()
         for key in storage_objects.keys():
             split_key = key.split('.')
@@ -167,6 +167,21 @@ or      (hbnb) all"""
         if len(args) == 3:
             print("** value missing **")
             return
+
+        attr_name = args[2]
+        attr_value = args[3]
+
+        # Check for the type of attr_value
+        try:
+            attr_value = int(attr_value)
+        except ValueError:
+            try:
+                attr_value = float(attr_value)
+            except ValueError:
+                attr_value = str(attr_value).strip("\"")
+
+        setattr(storage_objects[key], attr_name, attr_value)
+        storage.save()
 
 
 if __name__ == '__main__':
