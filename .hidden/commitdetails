@@ -1,0 +1,284 @@
+commit eb24dcdff7ffd91ddc5efafee0774090012eba22
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Sun Dec 10 13:51:01 2023 +0100
+
+    updated: Bug fixed
+
+commit 73351bf26609ab319fd5e5a15fdd3542c2eff00e
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Sun Dec 10 09:08:20 2023 +0100
+
+    updated: Project Description
+
+commit d6e3d711d7df203eca7258ef9b453d2b601ed248
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Sun Dec 10 07:43:08 2023 +0100
+
+    updated: deployment cleanup
+
+commit 643c3177cae8e1dbe66bf5e3879d15ef50954ed4
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Sun Dec 10 01:27:59 2023 +0100
+
+    updated: Project Description
+
+commit a9d92c8753040368b2f044cb1f139bb6c91b28fe
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Sun Dec 10 01:11:27 2023 +0100
+
+    updated: bug fixed
+
+commit 2c9f2dcc15b5f344c79e6bb56480dd1a5be257f2
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Sun Dec 10 00:19:18 2023 +0100
+
+    update: bug fixed
+
+commit 77f133e9bea7aa0abcb6014c2a5a0427d1bffc65
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Sun Dec 10 00:18:59 2023 +0100
+
+    added: unit test suite
+
+commit 73c46336d33516c0f6fcf9c54dc022920c22d5d2
+Merge: 857e914 573f4db
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Sat Dec 9 20:38:23 2023 +0100
+
+    Merge pull request #12 from emmanueldev247/shecktar
+    
+    remove do_save from user instance
+
+commit 573f4db023b958068a3e7cfe108ab25c01aa187e
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Sat Dec 9 20:37:28 2023 +0100
+
+    remove do_save from user instance
+
+commit 857e914a9cd0ec5e371072c53342722ca1fc8a77
+Merge: 69780aa 04c4d3c
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Sat Dec 9 20:32:59 2023 +0100
+
+    Merge pull request #11 from emmanueldev247/shecktar
+    
+    updated the user instance with the appropriate File storage instance
+
+commit 04c4d3c57f48d2a637044e219876bed3468e3367
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Sat Dec 9 20:31:20 2023 +0100
+
+    updated the user instance with the appropriate File storage instance
+
+commit 69780aa3df86fe8b5613ef693f59d59700d4f139
+Merge: 69f4c53 211a50e
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Sat Dec 9 20:08:09 2023 +0100
+
+    Merge pull request #10 from emmanueldev247/shecktar
+    
+    updated storage.save() instances
+
+commit 211a50ed4426b3e02df325c75673919903eb50e3
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Sat Dec 9 20:07:10 2023 +0100
+
+    updated storage.save() instances
+
+commit 69f4c5333591f478870b6a92c675d0323d0ca636
+Merge: 149fc3e 78423a8
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Sat Dec 9 20:02:08 2023 +0100
+
+    Merge pull request #9 from emmanueldev247/shecktar
+    
+    Shecktar
+
+commit 78423a8de91878b744cf11d9ac9ebea203b19358
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Sat Dec 9 19:58:40 2023 +0100
+
+    called the storage.save() instance
+
+commit 84e06d6d7d11571b80aea0419c9f487bff040093
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Sat Dec 9 19:43:46 2023 +0100
+
+    updated the reload method to create user instances as well
+
+commit 149fc3ee36b6efa8a747c5036be161d021d6913a
+Merge: 6858a1a 0c97ab6
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Sat Dec 9 19:03:07 2023 +0100
+
+    Merge pull request #8 from emmanueldev247/shecktar
+    
+    Shecktar
+
+commit 0c97ab69430c6665140a09cd5c7e5098a46ee163
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Sat Dec 9 18:52:14 2023 +0100
+
+    fixed bugs in the console
+
+commit cd033d0870b494f65190513d15cae47cb564831f
+Merge: 4d39a3b 6858a1a
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Sat Dec 9 15:48:22 2023 +0100
+
+    Merge branch 'main' of https://github.com/emmanueldev247/AirBnB_clone
+
+commit 6858a1a0eb6afde7d24202e1665eb88f6c139d03
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Sat Dec 9 03:29:13 2023 +0100
+
+    updated: bug fixed
+
+commit 0188b06836d35ade714099c34f287edd9a23c384
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Sat Dec 9 03:25:16 2023 +0100
+
+    added: unit test files
+
+commit 2308646a3e599b10a6f58f079e414679ea99cc5e
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Sat Dec 9 03:17:56 2023 +0100
+
+    added: more classes
+
+commit 4d39a3bb3130ce55d8121d3a2ed140ec99948b5d
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Fri Dec 8 10:08:04 2023 +0100
+
+    updated README file
+
+commit b4341b8373e221eeb3f2c94354be5906ceac8c44
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Wed Dec 6 21:06:31 2023 -0800
+
+    added: script to clear cached pyc
+
+commit e8f20fa9325ba77c625a9af20e9b2e360819a48b
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Wed Dec 6 21:03:00 2023 -0800
+
+    unittest added
+
+commit ec715511c7db1febaf79d60c152c10c065fdb1a3
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Tue Dec 5 09:50:05 2023 -0800
+
+    updated: fixes
+
+commit ede74ed5af0bee1f5abc8337ac6d6301bec69755
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Tue Dec 5 09:49:39 2023 -0800
+
+    added: script for pycodestyle checks
+
+commit 9e71c8c118db37473565d56e6c65ae002dad3f94
+Merge: 83bbfbe 2e0f6a8
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Tue Dec 5 17:38:58 2023 +0100
+
+    Merge pull request #5 from emmanueldev247/shecktar
+    
+    implemented engine filestorage to the baseModel
+
+commit 2e0f6a8a4152e568e07179b9f7022ff36f8929c1
+Author: Israelshecktar <iamshecktar1996@.com>
+Date:   Tue Dec 5 16:42:07 2023 +0100
+
+    implemented engine filestorage to the baseModel
+
+commit 83bbfbe58ae43025ee523fcf9cca1c0058f4dcc5
+Merge: 3be931a c495b42
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Tue Dec 5 14:41:32 2023 +0100
+
+    Merge pull request #4 from emmanueldev247/Emmanuel
+    
+    Emmanuel
+
+commit c495b42bdf1e61918ff258641a017e132943f155
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Tue Dec 5 05:37:42 2023 -0800
+
+    updated: pycodestyle compliance
+
+commit a3cba67e473a883dd6747c71c2072f2f49879280
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Tue Dec 5 05:33:59 2023 -0800
+
+    added: console 0.0.1
+
+commit 3be931a20f3673f44119a3fc47cf30e1d0455cbc
+Merge: cbe481f 846c9b4
+Author: Ademola Emmanuel <mailemmydee@gmail.com>
+Date:   Tue Dec 5 14:27:58 2023 +0100
+
+    Merge pull request #3 from emmanueldev247/Emmanuel
+    
+    Emmanuel
+
+commit 846c9b4e2d1c12fba35d19b069f5b026e88e9e76
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Tue Dec 5 05:22:37 2023 -0800
+
+    updated: fix to __str__
+
+commit 33145a26183e4084edee7b9c7c5ee7b808dee716
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Tue Dec 5 05:21:31 2023 -0800
+
+    added: list of files ignored from push
+
+commit cbe481fc5d3ab8abd42599ef5edc721b430724aa
+Merge: 87f92f5 9281d97
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Tue Dec 5 13:56:33 2023 +0100
+
+    Merge pull request #2 from emmanueldev247/shecktar
+    
+    Shecktar
+
+commit 9281d976537ac54dee616b6d65fc2f5c7f02f24a
+Merge: 8518140 946bc4e
+Author: Israelshecktar <iamshecktar1996@.com>
+Date:   Tue Dec 5 13:45:30 2023 +0100
+
+    implemented baseModel
+    https://github.com/emmanueldev247/AirBnB_clone into shecktar
+
+commit 851814079d3de08f5b19fac74f8d5861a140ba82
+Author: Israelshecktar <iamshecktar1996@.com>
+Date:   Tue Dec 5 13:44:33 2023 +0100
+
+    implementation of baseModel
+
+commit 87f92f588a25db346131d70767372eb85612e9f3
+Merge: ad543f2 946bc4e
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Mon Dec 4 16:49:11 2023 +0100
+
+    Merge pull request #1 from emmanueldev247/shecktar
+    
+    added a list of authors
+
+commit 946bc4ebb17ee4b99c14ed6554dd7e4884578290
+Author: Israelshecktar <iamshecktar1996@gmail.com>
+Date:   Mon Dec 4 15:22:25 2023 +0100
+
+    Update AUTHORS
+
+commit a9b7f6cf4b524e241ab043d1bd40947a49023ae0
+Author: Israelshecktar <iamshecktar1996@.com>
+Date:   Mon Dec 4 15:10:24 2023 +0100
+
+    added a list of authors
+
+commit ad543f2b3acfa2ee2d8a349c8cf9933ad1a87efd
+Author: emmanueldev247 <mailemmydee@gmail.com>
+Date:   Mon Dec 4 06:09:36 2023 +0100
+
+    AirBnB_clone auto created
