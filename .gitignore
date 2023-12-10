@@ -1,6 +1,8 @@
 .gitsetup
 .hidden/
-test_*
+py-unittest
+pycode-test
+clearcache
 test-*
 *.sw*
 file.json
