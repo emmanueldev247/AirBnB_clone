@@ -1,6 +1,7 @@
 .gitsetup
 .hidden/
 py-unittest
+w3c_validator.py
 pycode-test
 clearcache
 test-*
