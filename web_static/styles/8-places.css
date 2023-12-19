@@ -4,7 +4,6 @@
 	padding-top: 10px;
 }
 
-
 .places h1 {
 	font-size: 30px;
 	text-align: left;
@@ -31,7 +30,6 @@
 	padding-bottom: 30px;
 }
 
-
 .places article h2 {
 	font-size: 30px;
 	margin-top: 0;
@@ -51,10 +49,9 @@
 	align-items: center;
 	position: absolute;
     top: 20px;
-    right: 20px;
+    right: 15px;
 	margin: auto;
 }
-
 
 .information {
 	height: 80px;
@@ -64,7 +61,7 @@
 	align-items: center;
 	display: flex;
 	justify-content: center;
-	margin-top: 50px;
+	margin-top: 40px;
 	padding: 5px;
 }
 
@@ -81,32 +78,37 @@
 	padding: 20px;
 }
 
-
-.guest_icon{
-	height: 100%;
+.guest_icon {
+	height: 50px;
 	width: 100%;
     background: url("../images/icon_group.png");
     background-repeat: no-repeat;
     margin-left: 35px;
 }
 
-
-.bedroom_icon{
-	height: 100%;
+.bedroom_icon {
+	height: 50px;
 	width: 100%;
     background: url("../images/icon_bed.png");
     background-repeat: no-repeat;
     margin-left: 35px;
 }
 
-
-
-.bathroom_icon{
-	height: 100%;
+.bathroom_icon {
+	height: 50px;
 	width: 100%;
     background: url("../images/icon_bath.png");
     background-repeat: no-repeat;
     margin-left: 35px;
 }
 
+.user {
+	margin-top: 20px;
+	text-align: left;
+}
 
+.description {
+	margin-top: 10px;
+	text-align: left;
+	line-height: 1.5;
+}
